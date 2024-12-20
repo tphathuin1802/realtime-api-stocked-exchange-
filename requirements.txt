@@ -1,0 +1,5 @@
+pip install plotly
+pip install pandas
+pip install ccxt
+pip install requests
+pip install streamlit
