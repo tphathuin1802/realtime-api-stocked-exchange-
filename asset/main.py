@@ -3,7 +3,7 @@ import pandas as pd
 
 exchange = ccxt.binance({
     "apiKey": "7q4UD0XOGUJ2pwwctsJ5XJdfJUKpIPVyMcFNP2WXD1pzKxUR768L8bYvo8ioOq1w",
-    "secret": "b7xl0BDKeI6BRi6r6LFCiImJmrsSyVWkWnlHJlV2WWc9Um6Z3jUZE07I6KUEuPpP",
+    "secret": "secret api make my repo secret",
     "enableRateLimit": True,
 })
 exchange.set_sandbox_mode(False)
